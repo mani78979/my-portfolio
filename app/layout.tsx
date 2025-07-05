@@ -10,6 +10,11 @@ export const metadata: Metadata = {
   title: "M-Usman_Portfolio",
   description: "Created by Usman",
   generator: "By Usman",
+  icons: {
+    icon: "/icon.png?height=32&width=32", 
+  },
+
+  
 }
 
 export default function RootLayout({
